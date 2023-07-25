@@ -6,3 +6,6 @@ NSE scripts can be used to gather information about hosts, services, and vulnera
 The NSE scripting engine is highly flexible and extensible, allowing users to create their own custom scripts or use the extensive collection of pre-existing scripts available in the Nmap Scripting Database. These scripts can be executed individually or in combination with other scripts to perform complex network scanning and analysis tasks.
 
 Overall, NSE scripts provide a powerful and versatile tool for network administrators, security professionals, and researchers to automate network reconnaissance and security assessments.
+
+
+# The credit goes to Codecademy because I learnt it from there😊
