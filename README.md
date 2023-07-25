@@ -8,4 +8,7 @@ The NSE scripting engine is highly flexible and extensible, allowing users to cr
 Overall, NSE scripts provide a powerful and versatile tool for network administrators, security professionals, and researchers to automate network reconnaissance and security assessments.
 
 
+In order to test the script use 
+**nmap --script script_name localhost**
+
 # The credit goes to Codecademy because I learnt it from there😊
