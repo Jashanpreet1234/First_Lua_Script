@@ -11,4 +11,8 @@ Overall, NSE scripts provide a powerful and versatile tool for network administr
 In order to test the script use 
 **nmap --script script_name localhost**
 
+You will get something like this 
+
+<img width="327" alt="image" src="https://github.com/Jashanpreet1234/First_Lua_Script/assets/105735825/d6401a8a-7470-4296-8bc6-d7688dcf998e">
+
 # The credit goes to Codecademy because I learnt it from there😊
